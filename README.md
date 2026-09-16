@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I am a student at the vocational high school, and I am enrolled in the software engineering department</p>
+<p align="center">I am a student at the vocational high school, and I am enrolled in the software engineering department</p> 
 
 ###
 
